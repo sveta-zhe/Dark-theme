@@ -1,0 +1,8 @@
+ body {
+  background-color: rgb(9, 16, 22);
+background: linear-gradient(135deg, #4f1c96 0%, #e52bdf 7%, #e52bdf 7%, #4f1c96 30%, #4f1c96 30%, #4f1c96 38%, #261c96 60%, #1c932e 86%, #7db9e8 100%);
+  color: #ddd;
+}
+h2, h4, h5 {
+color: #ddd;
+}
